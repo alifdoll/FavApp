@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FavApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav_movie">Movie</string>
+    <string name="fav_show">Tv Show</string>
+    <string name="title">MOVIE TITLE</string>
+    <string name="fav_data_photo">Movie Poster</string>
+    <string name="empty_data">NO DATA</string>
+</resources>
